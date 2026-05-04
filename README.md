@@ -14,6 +14,8 @@ git clone https://github.com/Fraagman/Fatal-Notes-2ndSEM.git
 - **Viewing PDFs/Docs:** Click on any file to view it directly in your browser.
 - **Downloading:** Click the `Code` button and select `Download ZIP` to get the entire collection offline.
 
+<img width="499" height="365" alt="giphy" src="https://github.com/user-attachments/assets/b7523110-88e6-4f02-b10d-48ed7c47652c" />
+
 ## Folder Structure
 
 ```
